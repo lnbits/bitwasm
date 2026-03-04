@@ -1,0 +1,7 @@
+[workspace]
+resolver = "2"
+members = [
+  "crates/bitwasm-core",
+  "crates/bitwasm-vm",
+  "crates/bitwasm-node",
+]
