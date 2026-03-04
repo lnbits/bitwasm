@@ -1,4 +1,6 @@
-# bitWASM
+# bitWASM 
+
+Statechain + WASM = bitcoin smart contracts 🧡
 
 **bitWASM** is a protocol for running deterministic **WASM programs secured by Bitcoin settlement**.
 
